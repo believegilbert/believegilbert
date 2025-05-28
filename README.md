@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Believe Gilbert
 
-<!--
-**believegilbert/believegilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a sofware engineer — currently exploring the magical world of React, experience working with Node.js, and too many unfinished side projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning frontend at Tunga
+- 🌱 Currently diving deeper into react, vue, next, TypeScript
+- 💬 Ask me about JavaScript, React, or debugging for 3 hours
+- 📫 How to reach me: believegilbert20@gmail.com
+- ⚡ Fun fact: My real name is Believe. Yes, really.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertbelieve)
