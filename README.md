@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Believe Gilbert
 
-I'm a sofware engineer — currently exploring the magical world of React, experience working with Node.js, and too many unfinished side projects.
+I'm a sofware engineer — I build my digital world with React, vue and Node.js
 
-- 🔭 I’m currently learning frontend at Tunga
-- 🌱 Currently diving deeper into react, vue, next, TypeScript
 - 💬 Ask me about JavaScript, React, or debugging for 3 hours
 - 📫 How to reach me: believegilbert20@gmail.com
 - ⚡ Fun fact: My real name is Believe. Yes, really.
